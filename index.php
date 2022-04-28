@@ -1081,7 +1081,7 @@
           <div class="col-sm-6 col-lg-3">
             <div class="widget widget_aheto ">
               <div class="widget_aheto__logo">
-                <img src="img/home/logo-inelco-white-40px - copia.png" alt="footer">
+                <img src="img/home/logo-inelco-50.png" alt="footer">
               </div>
               <div class="widget_aheto__infos">
                 <p class="widget_aheto__info widget_aheto__info--address">

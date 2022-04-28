@@ -5001,13 +5001,13 @@ body .swiper--restaurant .swiper-button-next:hover {
 .aheto-footer-14__main .aht-socials--circle .aht-socials__link {
     width: 45px;
     height: 45px;
-    color: #fff;
+    color: #222222;
     line-height: 3em;
     font-size: 14px;
 }
 
 .aheto-footer-14 .aht-socials__link {
-    color: #fff;
+    color: #222222;
 }
 
 .aheto-footer-14 p {
@@ -5015,7 +5015,7 @@ body .swiper--restaurant .swiper-button-next:hover {
 }
 
 .aheto-footer-15 {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 .aheto-footer-15__main {
@@ -5039,7 +5039,7 @@ body .swiper--restaurant .swiper-button-next:hover {
 }
 
 .aheto-footer-15 .aht-socials__link {
-    color: #fff;
+    color: #222222;
 }
 
 .aheto-footer-15__bottom:before {
@@ -8398,7 +8398,7 @@ hr {
 }
 
 .aheto-socials--events .aht-socials__link {
-    color: #fff !important;
+    color: #222222 !important;
 }
 
 .aheto-socials--events .aht-socials__link:hover {
@@ -9955,7 +9955,7 @@ h6 {
 }
 
 p {
-    color: #999999;
+    color: #222222;
     font-family: "MadeTommySoftThin", sans-serif;
     font-size: 16px;
     letter-spacing: 0;
@@ -13659,7 +13659,7 @@ a:hover {
 }
 
 .widget_aheto__link {
-    color: #999999;
+    color: #222222;
 }
 
 .widget_aheto .aheto-socials__link {
@@ -13700,11 +13700,11 @@ a:hover {
 }
 
 .widget_nav_menu_2 .menu-item a {
-    color: #999999;
+    color: #222222;
 }
 
 .widget_nav_menu_3 .menu-item a {
-    color: #999999;
+    color: #222222;
 }
 
 .widget_nav_menu_3 .menu-item a:before {
@@ -13888,7 +13888,7 @@ a:hover {
 }
 
 .aht-socials--circle .aht-socials__link {
-    border: 1px solid #999999;
+    border: 1px solid #222222;
     color: #999999;
 }
 
@@ -13948,7 +13948,7 @@ a:hover {
 
 .aheto-footer-6 .widget_mc4wp_form_widget.aheto_mc_1 button[type=email],
 .aheto-footer-6 .widget_mc4wp_form_widget.aheto_mc_1 input[type=email] {
-    color: #999999;
+    color: #222222;
 }
 
 .aheto-footer-6 .widget_mc4wp_form_widget.aheto_mc_1 button[type=submit],
@@ -14033,7 +14033,7 @@ a:hover {
 }
 
 .aheto-footer-11 .widget_aheto__link {
-    color: #999999;
+    color: #222222;
 }
 
 .aheto-footer-11 .widget_aheto__link:hover {
@@ -14045,7 +14045,7 @@ a:hover {
 }
 
 .aheto-footer-11 .widget_nav_menu .menu-item a {
-    color: #999999;
+    color: #222222;
 }
 
 .aheto-footer-11 .widget_nav_menu .menu-item a:hover {
@@ -14101,7 +14101,7 @@ a:hover {
 }
 
 .aheto-footer-15 .widget_aheto__info {
-    color: #999999;
+    color: #222;
     font-weight: 400;
 }
 
@@ -14111,7 +14111,7 @@ a:hover {
 
 .aheto-footer-15 .widget_mc4wp_form_widget.aheto_mc_1 button[type=email],
 .aheto-footer-15 .widget_mc4wp_form_widget.aheto_mc_1 input[type=email] {
-    color: #999999;
+    color: #222222;
 }
 
 .aheto-footer-15 .widget_mc4wp_form_widget.aheto_mc_1 button[type=submit],

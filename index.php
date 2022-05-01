@@ -251,13 +251,13 @@
         <div class="swiper-slide ">
           <div class="aht-ban aht-ban--main aht-ban--main-1 t-left">
             <!--<img class="js-bg" src="img/main/home-page/image-1.jpg" alt="Background">-->
-            <img class="js-bg" src="img/main/home-page/gray-mockup-black-iphone.png" alt="Background">
+            <img class="js-bg" src="img/main/home-page/gray-mockup-black-coffe.png" alt="Background">
             <div class="aht-ban__content">
               <h1 class="aht-ban__title" style="color:black;">
-                Soluciones integrales
-                <br> de <span style="color:#2898ee;"> tecnología </span>
+                Tu tranquilidad 
+                <br> es nuestra <span style="color:#2898ee;"> prioridad </span>
               </h1>
-              <h4 class="aht-ban__desc" style="color:black;">Tenemos más de una solución <br> para tu empresa</h4>
+              <h4 class="aht-ban__desc" style="color:black;">Tenemos más de una solución  para potenciar tu empresa</h4>
               <div class="aht-ban__links">
                 <div class="aht-ban__link-wrap">
                   <a class="aht-ban__link-prime aheto-btn t-uppercase" href="#">
@@ -539,20 +539,14 @@
           <div class="col-sm-4 margin-sm-35b margin-lg-70b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/team01.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/seguridad.png" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Consultoría</h5>
-                <p class="aheto-member__position ">Director</p>
+                <!--<p class="aheto-member__position ">Director</p>-->
                 <div class="aheto-member__contact">
                   <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-facebook"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-twitter"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-skype"></i>
+                    Más información
                   </a>
                 </div>
               </div>
@@ -561,20 +555,14 @@
           <div class="col-sm-4 margin-sm-35b margin-lg-70b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/team05.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/team01.png" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Asesoría</h5>
-                <p class="aheto-member__position ">Director</p>
+                <!--<p class="aheto-member__position ">Director</p>-->
                 <div class="aheto-member__contact">
                   <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-facebook"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-twitter"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-skype"></i>
+                    Más información
                   </a>
                 </div>
               </div>
@@ -583,20 +571,14 @@
           <div class="col-sm-4 margin-sm-35b margin-lg-70b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/team02.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/seguridad.png" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Seguridad</h5>
-                <p class="aheto-member__position ">Designer</p>
+                <!--<p class="aheto-member__position ">Designer</p>-->
                 <div class="aheto-member__contact">
                   <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-facebook"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-twitter"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-skype"></i>
+                    Más información
                   </a>
                 </div>
               </div>
@@ -605,20 +587,14 @@
           <div class="col-sm-4 margin-sm-35b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/team04.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/team01.png" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Implementación</h5>
-                <p class="aheto-member__position ">Director</p>
+                <!--<p class="aheto-member__position ">Director</p>-->
                 <div class="aheto-member__contact">
                   <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-facebook"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-twitter"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-skype"></i>
+                    Más información
                   </a>
                 </div>
               </div>
@@ -627,20 +603,14 @@
           <div class="col-sm-4 margin-sm-35b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/team06.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/team01.png" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Capacitación</h5>
-                <p class="aheto-member__position ">Director</p>
+                <!--<p class="aheto-member__position ">Director</p>-->
                 <div class="aheto-member__contact">
                   <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-facebook"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-twitter"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-skype"></i>
+                    Más información
                   </a>
                 </div>
               </div>
@@ -649,20 +619,14 @@
           <div class="col-sm-4 margin-sm-40b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/team03.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/soporte-01.png" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Soporte</h5>
-                <p class="aheto-member__position ">Designer</p>
+                <!--<p class="aheto-member__position ">Designer</p>-->
                 <div class="aheto-member__contact">
                   <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-facebook"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-twitter"></i>
-                  </a>
-                  <a class="aheto-member__link aheto-btn--dark aheto-btn--trans t-center" href="#">
-                    <i class="aheto-member__icon icon ion-social-skype"></i>
+                    Más información
                   </a>
                 </div>
               </div>
@@ -673,15 +637,16 @@
     </div>
   </div>
   <div class="bg-wrap">
-    <img src="img/inner-pages/call-to-action/call-to-action-3.jpg" alt="call-to-action" class="js-bg">
+    <img src="img/inner-pages/call-to-action/call-to-action-3.png" alt="call-to-action" class="js-bg">
     <div class="container">
       <div class="row padding-lg-145t padding-lg-135b padding-md-60t padding-md-60b  margin-sm-30t margin-sm-10b">
         <div class="col-md-12">
-          <div class="aht-cta aht-cta--classic t-center aht-cta--t-white">
+          <div class="aht-cta aht-cta--classic t-left aht-cta--t-white">
             <div class="aht-cta__text">
               <h6 class="aht-cta__sub-title ">Your landing page. Reinvigorated.</h6>
               <h1 class="aht-cta__title">
-                Soluciones, asesorias y soporte
+                Soluciones, asesorias <br>
+                y soporte
               </h1>
             </div>
             <div class="aht-cta__links">

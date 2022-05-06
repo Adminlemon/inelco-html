@@ -539,7 +539,7 @@
           <div class="col-sm-4 margin-sm-35b margin-lg-70b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/services/seguridad.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/certificado.svg" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Consultoría</h5>
@@ -555,7 +555,7 @@
           <div class="col-sm-4 margin-sm-35b margin-lg-70b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/services/team01.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/certificado.svg" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Asesoría</h5>
@@ -571,7 +571,7 @@
           <div class="col-sm-4 margin-sm-35b margin-lg-70b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/services/seguridad.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/certificado.svg" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Seguridad</h5>
@@ -587,7 +587,7 @@
           <div class="col-sm-4 margin-sm-35b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/services/team01.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/certificado.svg" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Implementación</h5>
@@ -603,7 +603,7 @@
           <div class="col-sm-4 margin-sm-35b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/services/team01.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/certificado.svg" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Capacitación</h5>
@@ -619,7 +619,7 @@
           <div class="col-sm-4 margin-sm-40b">
             <div class="aheto-member aheto-member--home-page  t-center">
               <div class="aheto-member__img-holder">
-                <img class="aheto-member__img" src="img/home/services/soporte-01.png" alt="Team member">
+                <img class="aheto-member__img" src="img/home/services/certificado.svg" alt="Team member">
               </div>
               <div class="aheto-member__text">
                 <h5 class="aheto-member__name">Soporte</h5>
